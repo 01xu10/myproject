@@ -1,13 +1,3 @@
-# !/usr/bin/env python
-# -*- coding: utf-8 -*-
-# ------------------------------
-# @project : TFJY_13
-# @File    : 02-京东商城-查询.py
-# @Software: PyCharm
-# @Author  :  xu
-# @Time    : 2020/11/18 14:03
-# ------------------------------
-
 from pymysql import connect
 
 class JD(object):
