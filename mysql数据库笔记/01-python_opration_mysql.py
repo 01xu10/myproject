@@ -1,13 +1,3 @@
-# !/usr/bin/env python
-# encoding: utf-8
-# ------------------------------
-# @project : 数据库基础
-# @File    : Python 操作 MySQL.py
-# @Software: PyCharm
-# @Author  :  Vce
-# @Time    : 2020/2/23 12:40
-# ------------------------------
-
 import pymysql
 
 # 1、建立连接
